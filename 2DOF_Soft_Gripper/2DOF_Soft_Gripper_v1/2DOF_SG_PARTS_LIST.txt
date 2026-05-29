@@ -1,0 +1,12 @@
+-  2  Bones
+-  1  Main Platform
+-  2  Motor Stabilizer
+-  4  Hinge 1
+-  4  Hinge 2
+-  1  Axel Big
+-  1  Axel Small
+-  2  Axel Support
+-  1  Holder Big
+-  1  Holder Small
+-  1  Holder Support
+
